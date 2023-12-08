@@ -24,4 +24,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
    - A6: [Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1aG4g0ojpEs51AE2otnIgFUMVOeeyReU5?usp=drive_link)
    
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-    - A7: [List Your Data Analytics Skills](https://github.com/alexanderresearch/Analytics/edit/main/README.md)
+    - A7: [List Your Data Analytics Skills](https://github.com/BostenE/BostenE/commit/373209b26e57c9937bb5e745d736041505cc8c91)
